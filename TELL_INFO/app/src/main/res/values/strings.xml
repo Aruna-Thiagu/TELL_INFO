@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TELL_INFO</string>
+    <string name="here">Here you will get Details of important places in COIMBATORE...</string>
+ <string name="some_text">
+     Hospitals in COIMBATORE!!!
+ </string>
+    <string name="some_college">
+     Colleges in COIMBATORE!!!
+ </string>
+    <string name="some_cabs">
+     Cabs in COIMBATORE!!!
+ </string>
+<string name="some_schools">
+     Schools  in COIMBATORE!!!
+ </string>
+<string name="some_hotels">
+     Hotels in COIMBATORE!!!
+ </string>
+    <string name="some_hint">
+    Type here to search by name!!!
+    </string>
+</resources>
